@@ -1,0 +1,57 @@
+body{
+    background-image: url("bg8.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    } 
+.general{
+    margin: 150px auto;
+    width:50%
+   padding: 80px;
+}
+img{
+    float: left;
+    width: 300px;
+    heght:260px;
+    padding: 10px;
+}
+#potrait2{
+    float: right;
+}
+h1{
+font-size: 35px;
+font-family:Georgia, 'Times New Roman', Times, serif;
+font-weight: 1000;
+font-style:oblique;
+margin: 20px;
+text-align: center;
+text-indent: 30px;
+}
+p{
+  font-size: 22px;
+  font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 400;
+  text-indent:40px;
+  line-height: 30px;
+  margin: 10px;
+ }
+ ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#4F3466FF ;
+}
+li{
+    float: right;
+
+
+}
+li a{
+    display: block;
+    color: gainsboro;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: #9F6B99FF;
